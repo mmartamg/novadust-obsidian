@@ -7,8 +7,6 @@ This is **NOVADUST** for Obsidian, a dark blue color theme designed for high con
 
 ![promo1](https://github.com/mmartamg/novadust-obsidian/assets/63149994/a4809f12-f5a2-462e-a0e5-7d30b9014177)
 
-
-## Why/About
 ## Features
 ### Layout
 The theme features a modern layout, separating each section into a round-cornered box. I believe the style is called bento-box,but I'm not entirely sure. Honestly, it just looks really cool.
